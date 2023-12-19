@@ -10,3 +10,13 @@ button {
     margin-bottom: 20px;
   }
   
+  .submitBtn {
+    padding: 10px 60px;
+    background: #1dc130;
+    border:0;
+    outline: none;
+    cursor: pointer;
+    font-size: 22px;
+    font-weight: 500;
+    border-radius: 30px;
+  }
